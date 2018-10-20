@@ -54,6 +54,5 @@ def for_iterator(number_of_times)
   for current_number in 1..number_of_times
     puts phrase
   end
-  
 end
 
